@@ -10,4 +10,8 @@ Desarrolla un sistema integral de gestión de datos que permite centralizar, org
     usuario:admin pass:12345
     usuario:demo pass:demo
 
+    Comenta a otros sobre este proyecto 📢
+    Invita un café ☕
+    Da las gracias públicamente.
+
 
